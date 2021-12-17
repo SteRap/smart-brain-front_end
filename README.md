@@ -5,7 +5,7 @@ https://dane-thesmartbrain.herokuapp.com
 <h3>SmartBrain is a full-stack web app</h3>
 
 
-![alt text](src/Media/app_preview.png)
+![alt text](src/Media/website_preview.png)
 
 <h2>Motivation</h2>
 I started to develop Quizzical as the solo final project of the React course provided by Scrimba https://scrimba.com/ and taught by Bob Ziroll. 
