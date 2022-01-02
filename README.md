@@ -8,7 +8,7 @@ https://dane-thesmartbrain.herokuapp.com
 ![alt text](src/Media/website_preview.png)
 
 <h2>Introduction and Motivation </h2>
-I developed this full-stach webapp as the final project of the 37-hours-long Web developer course ( https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/19845426#overviewby Scrimba https://scrimba.com/ ) taught by Andrei Neagoie https://github.com/aneagoie founder of ZeroToMastery.
+I developed this full-stack webapp as the final project of the 37-hours-long Web developer course ( https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/19845426#overviewby Scrimba https://scrimba.com/ ) taught by Andrei Neagoie https://github.com/aneagoie founder of ZeroToMastery.
 The application allows the users to paste an image URL in order to scan human faces inside the image.
 Smart Brain runs on top an Artificial Intelligence technology provided by Clarifai https://www.clarifai.com. 
 
